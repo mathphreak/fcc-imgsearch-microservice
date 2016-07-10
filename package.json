@@ -1,0 +1,23 @@
+{
+  "name": "@mathphreak/fcc-imgsearch-microservice",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "author": "Matt Horn <mathphreak@gmail.com> (http://mathphreak.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "bing.search": "~1.0.1",
+    "express": "~4.14.0",
+    "marked": "~0.3.5"
+  },
+  "devDependencies": {
+    "xo": "~0.16.0"
+  },
+  "xo": {
+    "space": true
+  }
+}
